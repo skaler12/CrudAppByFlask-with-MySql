@@ -3,5 +3,7 @@
 * Simple operation 
 * Using on localhost 
 * Using Xampp - phpmyadmin
+* run by comand python app.py
+* inspiring by https://www.youtube.com/watch?v=FkWyWZhMUjY 
 
 <img width="775" alt="image" src="https://user-images.githubusercontent.com/57706581/236695347-937f779d-6e19-46e2-8621-a0bfd4dac0dd.png">
